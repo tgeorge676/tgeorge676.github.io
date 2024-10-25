@@ -1,0 +1,21 @@
+.page_body{
+   background: hsla(0,0%,85%,0.6);
+   text-align:center;
+   margin: 50px;
+   padding-top:10px;
+   padding-bottom:10px;
+}
+
+html {
+    background-image: url('images/background.jpg');
+    padding:25px;
+}
+
+#screenshot {
+    border: 1px solid #000;
+    width: 500px;
+}
+
+a:hover {
+color:blue;
+}
